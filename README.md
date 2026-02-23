@@ -1,5 +1,6 @@
 ## 📊 Results
-📊 Results & Analysis
+Results & Analysis
+
 🔹 Imagenette – Regularized CNN
 
 The regularized CNN model demonstrated improved generalization compared to the baseline network.
